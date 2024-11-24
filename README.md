@@ -7,7 +7,7 @@ This mod lets SimPlayers react to certain events with pre-defined phrases that a
 
 # Requirements
 > [!IMPORTANT]
-> Melonloader Version >= 0.6.4 is needed
+> Melonloader Version >= 0.6.4 is recommended
 
 ## Define own Phrases
 > [!TIP]
