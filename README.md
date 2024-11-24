@@ -50,6 +50,12 @@ This defines the chance in % that the phrase will be sent when the event happens
 * When the value is `1` then there's a `100%` chance that this phrase will be sent when the event happens. (Always)
 * When the value is `0` then there's a `0%` chance that this phrase will be sent when the event happens. (Never)
 
+## Example `SimPlayerPhrases.json` File created by ChatGPT
+You can see how ChatGPT did a `SimPlayerPhrases.json` file [here](/SimPlayerPhrases.json)
+
+> [!TIP]
+> You can download this .json and use it
+
 ## Made with MelonLoader
 <p align="center">
   <img src="https://melonwiki.xyz/_media/logo.svg" height="20%" width="20%" />
