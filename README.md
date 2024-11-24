@@ -48,6 +48,8 @@ This defines WHEN the Phrase will be send into the chat. Here's a list of them
 This defines the chance in % that the phrase will be sent when the event happens.
 
 * When the value is `1` then there's a `100%` chance that this phrase will be sent when the event happens. (Always)
+* When the value is `0.5` then there's a `50%` chance that this phrase will be sent when the event happens. (50% of the time)
+* When the value is `0.36` then there's a `36%` chance that this phrase will be sent when the event happens. (36% of the time)
 * When the value is `0` then there's a `0%` chance that this phrase will be sent when the event happens. (Never)
 
 ## Example `SimPlayerPhrases.json` File created by ChatGPT
