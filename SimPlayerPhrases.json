@@ -1,0 +1,752 @@
+[
+  {
+    "Phrase": "Congrats %playername% for reaching level %playerlevel%!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Level %playerlevel%! %playername%, you are on fire!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Well done %playername%, level %playerlevel% achieved!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Level %playerlevel% already, %playername%? Slow down!",
+    "Event": 0,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% just hit level %playerlevel%. Time to catch up!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% reached level %playerlevel%. Impressive!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Level %playerlevel%! %playername% is unstoppable!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Another level for %playername%! %playerlevel%, wow!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% hit level %playerlevel%. Grinding hard!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Look at %playername%! Level %playerlevel%, amazing!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% has been slain!",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "RIP %playername%, better luck next time.",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername%, down again? Tough day, huh?",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% just got wrecked!",
+    "Event": 1,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "Ouch, %playername%! That must've hurt.",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% got taken out! Stay strong!",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% was defeated. Watch your back!",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Another one down! RIP %playername%.",
+    "Event": 1,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% just bit the dust!",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% got knocked out. Oof!",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% is back on their feet!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% has been revived. Let's go!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Looks like %playername% got a second chance.",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% is up again. Can't keep them down!",
+    "Event": 2,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% has returned to the fight!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% is back! Ready for round two?",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% revived! Time to shine!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% is back in action!",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Can't keep %playername% down for long!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% returned. Let's go!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Congrats %playername%! Quest '%questname%' completed!",
+    "Event": 3,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% finished '%questname%'. Well played!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% has conquered the quest '%questname%'.",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "'%questname%' is done! Great job, %playername%!",
+    "Event": 3,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Quest '%questname%' completed by %playername%. Impressive!",
+    "Event": 3,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% nailed '%questname%'. GG!",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% finished the quest '%questname%'! Respect!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Another quest down! '%questname%' by %playername%!",
+    "Event": 3,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% completed '%questname%'. Legend!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "'%questname%' cleared! %playername% is on fire!",
+    "Event": 3,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% found %item%. Lucky drop!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Nice find, %playername%! %item% is rare.",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% looted %item%. That's a game-changer.",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% got %item%! Share the luck!",
+    "Event": 4,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%item% for %playername%. Nice catch!",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% picked up %item%. Sweet loot!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% just looted %item%! Awesome!",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Look what %playername% found: %item%!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% got their hands on %item%. Nice!",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%item% for %playername%! Jackpot!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Congrats %playername% for reaching level %playerlevel%!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Level %playerlevel%! %playername%, you are on fire!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Well done %playername%, level %playerlevel% achieved!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Level %playerlevel% already, %playername%? Slow down!",
+    "Event": 0,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% just hit level %playerlevel%. Time to catch up!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% reached level %playerlevel%. Impressive!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Level %playerlevel%! %playername% is unstoppable!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Another level for %playername%! %playerlevel%, wow!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% hit level %playerlevel%. Grinding hard!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Look at %playername%! Level %playerlevel%, amazing!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% has been slain!",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "RIP %playername%, better luck next time.",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername%, down again? Tough day, huh?",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% just got wrecked!",
+    "Event": 1,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "Ouch, %playername%! That must've hurt.",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% got taken out! Stay strong!",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% was defeated. Watch your back!",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Another one down! RIP %playername%.",
+    "Event": 1,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% just bit the dust!",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% got knocked out. Oof!",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% is back on their feet!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% has been revived. Let's go!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Looks like %playername% got a second chance.",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% is up again. Can't keep them down!",
+    "Event": 2,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% has returned to the fight!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% is back! Ready for round two?",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% revived! Time to shine!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% is back in action!",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Can't keep %playername% down for long!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% returned. Let's go!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Congrats %playername%! Quest '%questname%' completed!",
+    "Event": 3,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% finished '%questname%'. Well played!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% has conquered the quest '%questname%'.",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "'%questname%' is done! Great job, %playername%!",
+    "Event": 3,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Quest '%questname%' completed by %playername%. Impressive!",
+    "Event": 3,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%playername% nailed '%questname%'. GG!",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% finished the quest '%questname%'! Respect!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Another quest down! '%questname%' by %playername%!",
+    "Event": 3,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% completed '%questname%'. Legend!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "'%questname%' cleared! %playername% is on fire!",
+    "Event": 3,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% found %item%. Lucky drop!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Nice find, %playername%! %item% is rare.",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% looted %item%. That's a game-changer.",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% got %item%! Share the luck!",
+    "Event": 4,
+    "ChanceToReact": 0.4
+  },
+  {
+    "Phrase": "%item% for %playername%. Nice catch!",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% picked up %item%. Sweet loot!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% just looted %item%! Awesome!",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Look what %playername% found: %item%!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% got their hands on %item%. Nice!",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%item% for %playername%! Jackpot!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Congrats %playername% for reaching level %playerlevel%!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Level %playerlevel%! %playername%, you are on fire!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Well done %playername%, level %playerlevel% achieved!",
+    "Event": 0,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "Level %playerlevel% already, %playername%? Slow down!",
+    "Event": 0,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% just hit level %playerlevel%. Time to catch up!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% reached level %playerlevel%. Impressive!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Level %playerlevel%! %playername% is unstoppable!",
+    "Event": 0,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Another level for %playername%! %playerlevel%, wow!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% hit level %playerlevel%. Grinding hard!",
+    "Event": 0,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "Look at %playername%! Level %playerlevel%, amazing!",
+    "Event": 0,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% has been slain!",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "RIP %playername%, better luck next time.",
+    "Event": 1,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername%, down again? Tough day, huh?",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% just got wrecked!",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "Ouch, %playername%! That must've hurt.",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% got taken out! Stay strong!",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% was defeated. Watch your back!",
+    "Event": 1,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Another one down! RIP %playername%.",
+    "Event": 1,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% just bit the dust!",
+    "Event": 1,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% got knocked out. Oof!",
+    "Event": 1,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% is back on their feet!",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% has been revived. Let's go!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Looks like %playername% got a second chance.",
+    "Event": 2,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% is up again. Can't keep them down!",
+    "Event": 2,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% has returned to the fight!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% is back! Ready for round two?",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% revived! Time to shine!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% is back in action!",
+    "Event": 2,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "Can't keep %playername% down for long!",
+    "Event": 2,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% returned. Let's go!",
+    "Event": 2,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Congrats %playername%! Quest '%questname%' completed!",
+    "Event": 3,
+    "ChanceToReact": 0.9
+  },
+  {
+    "Phrase": "%playername% finished '%questname%'. Well played!",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% has conquered the quest '%questname%'.",
+    "Event": 3,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "'%questname%' is done! Great job, %playername%!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "Quest '%questname%' completed by %playername%. Impressive!",
+    "Event": 3,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%playername% nailed '%questname%'. GG!",
+    "Event": 3,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% finished the quest '%questname%'! Respect!",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Another quest down! '%questname%' by %playername%!",
+    "Event": 3,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% completed '%questname%'. Legend!",
+    "Event": 3,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "'%questname%' cleared! %playername% is on fire!",
+    "Event": 3,
+    "ChanceToReact": 0.9
+  },
+  {
+    "Phrase": "%playername% found %item%. Lucky drop!",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "Nice find, %playername%! %item% is rare.",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% looted %item%. That's a game-changer.",
+    "Event": 4,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "%playername% got %item%! Share the luck!",
+    "Event": 4,
+    "ChanceToReact": 0.5
+  },
+  {
+    "Phrase": "%item% for %playername%. Nice catch!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%playername% picked up %item%. Sweet loot!",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% just looted %item%! Awesome!",
+    "Event": 4,
+    "ChanceToReact": 0.8
+  },
+  {
+    "Phrase": "Look what %playername% found: %item%!",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  },
+  {
+    "Phrase": "%playername% got their hands on %item%. Nice!",
+    "Event": 4,
+    "ChanceToReact": 0.6
+  },
+  {
+    "Phrase": "%item% for %playername%! Jackpot!",
+    "Event": 4,
+    "ChanceToReact": 0.7
+  }
+]
